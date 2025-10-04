@@ -24,7 +24,8 @@ Each folder contains topic-wise breakdowns, sample questions, and concise explan
    cd interview-topics
 
 
-2. Explore each folder and start prepping!
+2. Explore each folder and start prepping!.
+
 3.Contributions are welcome – feel free to submit PRs with new questions or improvements.
 
 
