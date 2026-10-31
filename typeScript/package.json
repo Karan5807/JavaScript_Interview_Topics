@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "A practical guide to TypeScript concepts commonly covered in JavaScript and Node.js developer interviews. It moves from fundamentals to advanced type-system features and includes frequently asked interview questions with concise answers and examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

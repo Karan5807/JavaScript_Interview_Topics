@@ -39,3 +39,5 @@ This section covers key JavaScript concepts commonly asked in interviews, from b
 ---
 
 📌 Tip: Practice writing code snippets and explaining them aloud. It helps solidify your understanding.
+
+Question 1: Make the text within the button display the number of times the button has been clicked.
